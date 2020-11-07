@@ -10,7 +10,7 @@ Semantic tags, along with concise comments were added to the HTML to more easily
 
 Condensed redundant CSS classes together.
 
-Link to deployed site:
+Link to deployed site: https://ejostad.github.io/Horiseon-Code-Base/
 
-Image of depoloyed site:
+Image of deployed site:
 ![Image of deployed website](http://url/to/img.png)
