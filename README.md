@@ -16,4 +16,4 @@ Please note that I ran into issues obtaining an accurate screen shot. Tools such
 
 Link to deployed site: https://ejostad.github.io/Horiseon-Code-Base/
 
-![Image of deployed site:](chrome-extension://fdpohaocaechififmbbbbbknoalclacl/capture.html?id=11&url=https%3A%2F%2Fejostad.github.io%2FHoriseon-Code-Base%2F)
+![HoriseonScreenshot](https://user-images.githubusercontent.com/71619046/98456518-90200b80-2133-11eb-96d2-d89612416480.png)
